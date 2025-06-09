@@ -1,1 +1,2 @@
 I’ve learned how to use Git and GitHub to manage code, track changes, and collaborate effectively.
+I've learned how to use GitHub to manage version control, create files, and commit changes online.
